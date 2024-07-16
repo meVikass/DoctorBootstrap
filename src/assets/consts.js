@@ -1,0 +1,73 @@
+export const data = [
+  {
+    Doctor: "Caroline Forbes",
+    PatientName: "Neena Sharma",
+    Date: "2024-07-15",
+    Speciality: "General Surgeon",
+    id: "66",
+  },
+  {
+    Doctor: "Alaric Saltsman",
+    PatientName: "Sneha",
+    Date: "2024-08-11",
+    Speciality: "Cardio",
+    id: "65",
+  },
+  {
+    Doctor: "Zakir Khan",
+    PatientName: "Aashutosh",
+    Date: "2024-08-10",
+    Speciality: "Neuro",
+    id: "64",
+  },
+
+  {
+    Doctor: "Caroline Forbes",
+    PatientName: "Vikas Sharma",
+    Date: "2024-07-21",
+    Speciality: "Ear",
+    id: "59",
+  },
+  {
+    Doctor: "Hayley M",
+    PatientName: "Neha Sharma",
+    Date: "2024-07-14",
+    Speciality: "Skin care",
+    id: "56",
+  },
+  {
+    Doctor: "Dr Manish Tiwari",
+    PatientName: "Manish Yadav",
+    Date: "2024-07-12",
+    Speciality: "Neuro",
+    id: "55",
+  },
+  {
+    Doctor: "Caroline Forbes",
+    PatientName: "Stefan Salvatore",
+    Date: "2024-10-05",
+    Speciality: "General Surgeon",
+    id: "52",
+  },
+  {
+    Doctor: "Hayley M",
+    PatientName: "Elijah Mikelson",
+    Date: "2024-09-27",
+    Speciality: "Skin care",
+    id: "50",
+  },
+  {
+    Doctor: "Alaric Saltsman",
+    PatientName: "Jenna Gilbert",
+    Date: "2024-08-01",
+    Speciality: "Cardio",
+    id: "49",
+  },
+  {
+    Doctor: "Camile",
+    PatientName: "Klaus Mikelson",
+    Date: "2024-07-13",
+    Speciality: "Ear",
+    id: "48",
+  },
+];
